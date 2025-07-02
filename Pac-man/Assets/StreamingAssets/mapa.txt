@@ -1,0 +1,41 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X............XX............X
+X.XXXX.XXXXX.XX.XXXXX.XXXX.X
+XoXXXX.XXXXX.XX.XXXXX.XXXXoX
+X.XXXX.XXXXX.XX.XXXXX.XXXX.X
+X..........................X
+X.XXXX.XX.XXXXXXXX.XX.XXXX.X
+X.XXXX.XX.XXXXXXXX.XX.XXXX.X
+X......XX....XX....XX......X
+XXXXXX.XXXXX XX XXXXX.XXXXXX
+XXXXXX.XXXXX XX XXXXX.XXXXXX
+XXXXXX.XX   RRRR   XX.XXXXXX
+XXXXXX.XX XXXXXXXX XX.XXXXXX
+XXXXXX.XX X      X XX.XXXXXX
+TTTTT .   X      X   . TTTTT
+XXXXXX.XX X      X XX.XXXXXX
+XXXXXX.XX XXXXXXXX XX.XXXXXX
+XXXXXX.XX          XX.XXXXXX
+XXXXXX.XX XXXXXXXX XX.XXXXXX
+XXXXXX.XX XXXXXXXX XX.XXXXXX
+X............XX............X
+X.XXXX.XXXXX.XX.XXXXX.XXXX.X
+X.XXXX.XXXXX.XX.XXXXX.XXXX.X
+Xo..XX......B  B......XX..oX
+XXX.XX.XX.XXXXXXXX.XX.XX.XXX
+XXX.XX.XX.XXXXXXXX.XX.XX.XXX
+X......XX....XX....XX......X
+X.XXXXXXXXXX.XX.XXXXXXXXXX.X
+X.XXXXXXXXXX.XX.XXXXXXXXXX.X
+X..........................X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+# X = zed (tường không đi qua được)
+# . = jidlo (viên chấm nhỏ pacman ghi điểm)
+#   = prazdne policko ( )
+# o = power pallet (power pellet)
+# T = tunelova zona (khu vực đường hầm)
+# R = duch na R se nesmi pohybovat vertikalne (Vùng đặc biệt cho ma)
+# B = . & R (ô trống ,pacman và ma có thể đi qua)
+
+
